@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+
+<channel>
+<title>Euclid Point Blog</title>
+<link>https://euclidpoint.com//blog/</link>
+<description>Feed from Euclid Point Blog</description>
+
+<item>
+<title>Hello, World!</title>
+<link>https://euclidpoint.com//blog/hello-world/</link>
+<guid>https://euclidpoint.com//blog/hello-world/</guid>
+<description>
+<![CDATA[
+<p>Welcome to Euclid Point. This community was formed to promote discussion and collaboration between people who love mathematics and computer science. Related areas like algorithms,&nbsp;<a href="https://euclidpoint.com//blog/hello-world/">...</a></p>
+<p><a href="https://euclidpoint.com//blog/hello-world/">Read More</a></p>
+]]>
+</description>
+<pubDate>Wed, 18 Mar 2020 00:00:00 +0000</pubDate>
+</item>
+
+
+</channel>
+</rss>
